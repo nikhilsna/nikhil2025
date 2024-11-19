@@ -7,7 +7,8 @@ image: /images/mario_animation.png
 hide: true
 ---
 
- My journey starts here
- Nikhil Narayan
-<hr>
+ <h1>My journey starts here.<h1>
+ <hr>
+<h2> Nikhil Narayan <h2>
+
  helped by Srini
